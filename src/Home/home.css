@@ -1,0 +1,153 @@
+.head-text {
+  position: relative;
+}
+.text-on-image {
+  position: absolute;
+  right: 84%;
+  left: 16%;
+  bottom: 15%;
+}
+.head-image {
+  display: flex;
+  flex-direction: row;
+
+  align-items: end;
+  justify-content: end;
+}
+.side-border {
+  border-left: 6px solid darkgoldenrod;
+  height: 240px;
+  position: absolute;
+  left: 50%;
+  margin-left: -2rem;
+  top: 0;
+}
+
+.ar-head-text {
+  position: relative;
+}
+.ar-text-on-image {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  right: 70%;
+  bottom: 20%;
+  justify-content: start;
+  align-items: start;
+}
+.ar-side-border {
+  border-left: 6px solid darkgoldenrod;
+  height: 60px;
+  position: absolute;
+  left: 43.2%;
+  right: 56.8%;
+  margin-left: -2rem;
+  top: 0;
+}
+.ar-head-image {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  justify-content: end;
+  margin-right: 10rem;
+  margin-top: 6rem;
+}
+
+.dl-head-text {
+  position: relative;
+}
+.dl-text-on-image {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  left: 60%;
+  bottom: 8%;
+  justify-content: start;
+  align-items: start;
+  margin: auto;
+  font-size: 15px;
+  color: gray;
+}
+
+.dl-head-image {
+  display: flex;
+  flex-direction: row;
+  align-items: start;
+  justify-content: start;
+  margin: auto;
+}
+.dl-side-border {
+  border-left: 6px solid darkgoldenrod;
+  height: 50px;
+  position: absolute;
+  left: 5%;
+  margin-left: -2rem;
+  margin-bottom: 5rem;
+  bottom: 78%;
+}
+
+.an-head-text {
+  position: relative;
+}
+.an-text-on-image {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  font-size: 10px;
+  bottom: 10%;
+  right: 70%;
+  justify-content: start;
+  align-items: start;
+  color: gray;
+}
+.an-head-image {
+  display: flex;
+  flex-direction: row;
+
+  align-items: end;
+  justify-content: end;
+}
+.an-side-border {
+  border-left: 6px solid darkgoldenrod;
+  height: 200px;
+  position: absolute;
+  left: 50%;
+  margin-left: -2rem;
+  top: 0;
+}
+
+.bottom {
+  width: 100%;
+  left: 50%;
+}
+
+.input {
+  border: 1px solid gray;
+  border-radius: 5px;
+  height: 3vh;
+  width: 12vw;
+  align-items: center;
+  font-size: 12px;
+  justify-content: center;
+  color: gray;
+}
+
+.logo {
+  position: absolute;
+  margin: 7rem auto 10rem 8rem;
+  display: flex;
+  width: 15vw;
+  height: 15vh;
+}
+
+.footer {
+  position: absolute;
+  right: 50%;
+  color: gray;
+}
+
+.footer2 {
+  position: absolute;
+  right: 20%;
+  color: gray;
+}
