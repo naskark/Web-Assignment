@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Web-Assignment/static/css/main.a5ac5d1d.css",
-    "main.js": "/Web-Assignment/static/js/main.fbd66e7e.js",
+    "main.css": "/Web-Assignment/static/css/main.a025c0fe.css",
+    "main.js": "/Web-Assignment/static/js/main.14c5b9d1.js",
     "static/js/787.3aa68a5b.chunk.js": "/Web-Assignment/static/js/787.3aa68a5b.chunk.js",
     "static/media/Puri1.png": "/Web-Assignment/static/media/Puri1.e0159bf358c84b2b4039.png",
     "static/media/Delivered.png": "/Web-Assignment/static/media/Delivered.7514c592a0aebc3d41b0.png",
@@ -9,12 +9,12 @@
     "static/media/Arravallis.png": "/Web-Assignment/static/media/Arravallis.125d93d534998216bf66.png",
     "static/media/Aanandvilas.png": "/Web-Assignment/static/media/Aanandvilas.13755596be25a1001baa.png",
     "index.html": "/Web-Assignment/index.html",
-    "main.a5ac5d1d.css.map": "/Web-Assignment/static/css/main.a5ac5d1d.css.map",
-    "main.fbd66e7e.js.map": "/Web-Assignment/static/js/main.fbd66e7e.js.map",
+    "main.a025c0fe.css.map": "/Web-Assignment/static/css/main.a025c0fe.css.map",
+    "main.14c5b9d1.js.map": "/Web-Assignment/static/js/main.14c5b9d1.js.map",
     "787.3aa68a5b.chunk.js.map": "/Web-Assignment/static/js/787.3aa68a5b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5ac5d1d.css",
-    "static/js/main.fbd66e7e.js"
+    "static/css/main.a025c0fe.css",
+    "static/js/main.14c5b9d1.js"
   ]
 }
