@@ -89,30 +89,35 @@ const Footer = () => {
           style={{
             display: "flex",
             flexDirection: "column",
-            justifyContent: "start",
-            alignItems: "start",
-            margin: "auto",
           }}
         >
           <div>
-            <h5>CORPORATE & REGISTERED OFFICE</h5>
+            <h4>CORPORATE & REGISTERED OFFICE</h4>
           </div>
           <div>
-            <p>Puri Construction Private Limited</p>
-            <p>4-7B, Ground Floor, Tolstoy House,</p>
-            <p>15 & 17, Tolstoy Marg</p>
-            <p>New Delhi - 110 001</p>
-            <p>CIN: U45201DL1971PTC005522</p>
+            <p style={{ fontSize: "14px" }}>
+              Puri Construction Private Limited <br />
+              4-7B, Ground Floor, Tolstoy House,
+              <br />
+              15 & 17, Tolstoy Marg
+              <br />
+              New Delhi - 110 001
+              <br />
+              CIN: U45201DL1971PTC005522
+            </p>
           </div>
         </div>
         <div>
           <div>
-            <h5>MARKETING OFFICE</h5>
+            <h4>MARKETING OFFICE</h4>
           </div>
           <div>
-            <p>Puri Construction Private Limited</p>
-            <p>11 -12A, Ground Floor, Tolstoy House,</p>
-            <p>15 & 17, Tolstoy Marg, New Delhi - 110001</p>
+            <p style={{ fontSize: "14px" }}>
+              Puri Construction Private Limited <br />
+              11 -12A, Ground Floor, Tolstoy House,
+              <br />
+              15 & 17, Tolstoy Marg, New Delhi - 110001
+            </p>
           </div>
         </div>
       </footer>
